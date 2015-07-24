@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1426566574 source:c:\users\jimmy\documents\projects\networkfreqresp\complex.cpp
+	<stdio.h>
+	<math.h>
+	"Complex.h"
+
+1423629048 c:\users\jimmy\documents\projects\networkfreqresp\complex.h
+	<stdio.h>
+
+1426564702 source:c:\users\jimmy\documents\projects\networkfreqresp\cplotpoints.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"CPlotPoints.h"
+	"FPoints.h"
+
+1425416028 c:\users\jimmy\documents\projects\networkfreqresp\cplotpoints.h
+
+1425573794 c:\users\jimmy\documents\projects\networkfreqresp\fpoints.h
+
+1426651818 source:c:\users\jimmy\documents\projects\networkfreqresp\cpolynomial.cpp
+	<stdio.h>
+	<math.h>
+	"CPolynomial.h"
+	"Complex.h"
+
+1426651637 c:\users\jimmy\documents\projects\networkfreqresp\cpolynomial.h
+
+1425573950 source:c:\users\jimmy\documents\projects\networkfreqresp\fpoints.cpp
+	<string.h>
+	<math.h>
+	"FPoints.h"
+
+1426651438 source:c:\users\jimmy\documents\projects\networkfreqresp\magphasemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"complex.h"
+	"CPolynomial.h"
+	"FPoints.h"
+	"CPlotPoints.h"
+

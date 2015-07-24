@@ -1,0 +1,277 @@
+# depslib dependency file v1.0
+1420692315 source:c:\users\jim\documents\projects\networkfreqresp\complex.cpp
+	<stdio.h>
+	<math.h>
+	"Complex.h"
+
+1420674809 c:\users\jim\documents\projects\networkfreqresp\complex.h
+
+1420499104 source:c:\users\jim\documents\projects\networkfreqresp\component.cpp
+	<stdio.h>
+	"Component.h"
+
+1420498952 c:\users\jim\documents\projects\networkfreqresp\component.h
+
+1420732171 source:c:\users\jim\documents\projects\networkfreqresp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Complex.h"
+	"Component.h"
+	"Parser.h"
+	"Matrix.h"
+
+1420486712 source:c:\users\jim\documents\projects\networkfreqresp\parser.cpp
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Component.h"
+
+1420484862 c:\users\jim\documents\projects\networkfreqresp\parser.h
+
+1420752799 source:c:\users\jim\documents\projects\networkfreqresp\matrix.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Complex.h"
+
+1420732877 c:\users\jim\documents\projects\networkfreqresp\matrix.h
+
+1420499104 source:c:\users\jims\documents\projects\networkfreqresp\component.cpp
+	<stdio.h>
+	"Component.h"
+
+1420498952 c:\users\jims\documents\projects\networkfreqresp\component.h
+
+1421036938 source:c:\users\jims\documents\projects\networkfreqresp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Complex.h"
+	"Component.h"
+	"Parser.h"
+	"Matrix.h"
+	"CMatrix.h"
+
+1421025966 c:\users\jims\documents\projects\networkfreqresp\complex.h
+	<stdio.h>
+
+1420484862 c:\users\jims\documents\projects\networkfreqresp\parser.h
+
+1420752991 c:\users\jims\documents\projects\networkfreqresp\matrix.h
+
+1420752799 source:c:\users\jims\documents\projects\networkfreqresp\matrix.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Complex.h"
+
+1420486712 source:c:\users\jims\documents\projects\networkfreqresp\parser.cpp
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Component.h"
+
+1421010544 source:c:\users\jims\documents\projects\networkfreqresp\complex.cpp
+	<stdio.h>
+	<math.h>
+	"Complex.h"
+
+1421036530 source:c:\users\jims\documents\projects\networkfreqresp\cmatrix.cpp
+	"CMatrix.h"
+
+1421039375 c:\users\jims\documents\projects\networkfreqresp\cmatrix.h
+	"Complex.h"
+
+1422248182 source:c:\users\jims user\documents\projects\networkfreqresp\cmatrix.cpp
+	"CMatrix.h"
+
+1422238653 c:\users\jims user\documents\projects\networkfreqresp\cmatrix.h
+	"Complex.h"
+
+1423625448 c:\users\jims user\documents\projects\networkfreqresp\complex.h
+	<stdio.h>
+
+1423625551 source:c:\users\jims user\documents\projects\networkfreqresp\complex.cpp
+	<stdio.h>
+	<math.h>
+	"Complex.h"
+
+1421958108 source:c:\users\jims user\documents\projects\networkfreqresp\component.cpp
+	<stdio.h>
+	"Component.h"
+	"CMatrix.h"
+
+1421774263 c:\users\jims user\documents\projects\networkfreqresp\component.h
+
+1423801028 source:c:\users\jims user\documents\projects\networkfreqresp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Complex.h"
+	"Component.h"
+	"Parser.h"
+	"CMatrix.h"
+	"CPlotPoints.h"
+	"FPoints.h"
+
+1421595319 c:\users\jims user\documents\projects\networkfreqresp\parser.h
+
+1421167595 c:\users\jims user\documents\projects\networkfreqresp\matrix.h
+
+1421214992 source:c:\users\jims user\documents\projects\networkfreqresp\matrix.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Complex.h"
+
+1421793905 source:c:\users\jims user\documents\projects\networkfreqresp\parser.cpp
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Component.h"
+
+1423625551 source:c:\users\jim patchell\documents\projects\networkfreqresp\complex.cpp
+	<stdio.h>
+	<math.h>
+	"Complex.h"
+
+1423625448 c:\users\jim patchell\documents\projects\networkfreqresp\complex.h
+	<stdio.h>
+
+1421958108 source:c:\users\jim patchell\documents\projects\networkfreqresp\component.cpp
+	<stdio.h>
+	"Component.h"
+	"CMatrix.h"
+
+1421774263 c:\users\jim patchell\documents\projects\networkfreqresp\component.h
+
+1423684004 source:c:\users\jim patchell\documents\projects\networkfreqresp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Complex.h"
+	"Component.h"
+	"Parser.h"
+	"CMatrix.h"
+	"CPlotPoints.h"
+	"FPoints.h"
+
+1421595319 c:\users\jim patchell\documents\projects\networkfreqresp\parser.h
+
+1421167595 c:\users\jim patchell\documents\projects\networkfreqresp\matrix.h
+
+1422238653 c:\users\jim patchell\documents\projects\networkfreqresp\cmatrix.h
+	"Complex.h"
+
+1421214992 source:c:\users\jim patchell\documents\projects\networkfreqresp\matrix.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Complex.h"
+
+1421793905 source:c:\users\jim patchell\documents\projects\networkfreqresp\parser.cpp
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Component.h"
+
+1423874044 source:c:\users\jims user\documents\projects\networkfreqresp\cplotpoints.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Complex.h"
+	"CPlotPoints.h"
+	"FPoints.h"
+
+1423800457 c:\users\jims user\documents\projects\networkfreqresp\cplotpoints.h
+
+1423717052 source:c:\users\jims user\documents\projects\networkfreqresp\fpoints.cpp
+	<string.h>
+	"FPoints.h"
+
+1423770026 c:\users\jims user\documents\projects\networkfreqresp\fpoints.h
+
+1422248182 source:c:\users\jim patchell\documents\projects\networkfreqresp\cmatrix.cpp
+	"CMatrix.h"
+
+1423684023 source:c:\users\jim patchell\documents\projects\networkfreqresp\cplotpoints.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Complex.h"
+	"CPlotPoints.h"
+	"FPoints.h"
+
+1423630400 c:\users\jim patchell\documents\projects\networkfreqresp\cplotpoints.h
+
+1423682438 c:\users\jim patchell\documents\projects\networkfreqresp\fpoints.h
+
+1423683386 source:c:\users\jim patchell\documents\projects\networkfreqresp\fpoints.cpp
+	<string.h>
+	"FPoints.h"
+
+1422251782 source:c:\users\jimmy\documents\projects\networkfreqresp\cmatrix.cpp
+	"CMatrix.h"
+
+1422242254 c:\users\jimmy\documents\projects\networkfreqresp\cmatrix.h
+	"Complex.h"
+
+1423629048 c:\users\jimmy\documents\projects\networkfreqresp\complex.h
+	<stdio.h>
+
+1426701970 source:c:\users\jimmy\documents\projects\networkfreqresp\complex.cpp
+	<stdio.h>
+	<math.h>
+	"Complex.h"
+
+1421961708 source:c:\users\jimmy\documents\projects\networkfreqresp\component.cpp
+	<stdio.h>
+	"Component.h"
+	"CMatrix.h"
+
+1421777864 c:\users\jimmy\documents\projects\networkfreqresp\component.h
+
+1423877852 source:c:\users\jimmy\documents\projects\networkfreqresp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Complex.h"
+	"Component.h"
+	"Parser.h"
+	"CMatrix.h"
+	"CPlotPoints.h"
+	"FPoints.h"
+
+1421598920 c:\users\jimmy\documents\projects\networkfreqresp\parser.h
+
+1425416028 c:\users\jimmy\documents\projects\networkfreqresp\cplotpoints.h
+
+1425573794 c:\users\jimmy\documents\projects\networkfreqresp\fpoints.h
+
+1421797506 source:c:\users\jimmy\documents\projects\networkfreqresp\parser.cpp
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Component.h"
+
+1425573950 source:c:\users\jimmy\documents\projects\networkfreqresp\fpoints.cpp
+	<string.h>
+	<math.h>
+	"FPoints.h"
+
+1426564702 source:c:\users\jimmy\documents\projects\networkfreqresp\cplotpoints.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"CPlotPoints.h"
+	"FPoints.h"
+
+1423881454 source:c:\users\jimmy\documents\projects\networkfreqresp\netfreqrespmain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Complex.h"
+	"Component.h"
+	"Parser.h"
+	"CMatrix.h"
+	"CPlotPoints.h"
+	"FPoints.h"
+
